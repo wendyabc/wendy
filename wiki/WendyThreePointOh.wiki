@@ -9,22 +9,18 @@ Around 4 April 1990, Wendy 2.0 was released. This version was heavy on establish
 
 The first beta release of Wendy 3.0 debuted on 16 August 2009. 
 
-== Future ==
-
-An api to interface with Partner 2.0.
-
 
 = Details =
 
 The primary feature set for the Wendy 3.0 development cycle includes:
-
-  * More emotionally available
-  * Better at feeling and communicating emotions
-  * Better at asking for what she wants
-  * More confidence
-  * Less concern for what other people think/focus on what I think/want
+  * Redesigning the Partner API
+  * Quicker access to emotions
+  * Increased reliance on intuitive, intellectual, and emotional systems
+  * Increase the number and quality of requests made to other applications
+  * Decrease number of cycles wasted on worrying about what other applications are processing
+  * Increase the number of connections to other applications
+  * Deepen the connections that are made with other applications
 
 = Partner 2.0 =
 
-A conforming partner application will include the following features:
-  * Honest
+A conforming Partner application will exhibit the following features:
