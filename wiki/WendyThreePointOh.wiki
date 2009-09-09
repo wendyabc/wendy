@@ -22,13 +22,17 @@ The primary feature set for the Wendy 3.0 development cycle includes:
   * Decrease number of cycles wasted on worrying about what other applications are processing
   * Increase the number of connections to other applications
   * Deepen the connections that are made with other applications
-  * I want to create an open home.
-  * I want to be eccentric.
-  * I want Child 1.0 to enjoy bringing friends home because it is an interesting, loving, healthy, happy place to be.
+
+= Child 1.0 = 
+
+Several of the Wendy 3.0 processes are aimed at creating a stable, loving environment for Child 1.0. Here are some of the features we'd like to see implemented:
+
+  * Creation of an interesting, fun, loving environment that Child 1.0 will enjoy bringing friends home to visit.
+  * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" such that Child 1.0 will be able to name and process emotions effectively.
 
 = Partner 2.0 =
 
-Disclaimer: Several bugs will need to be addressed and the latest build of Wendy 3.0 will need to be more stable before serious attention is directed toward this module.
+Disclaimer: Several bugs will need to be addressed and a future build of Wendy 3.0 will need to be more stable before serious attention is directed toward this module.
 
 I love love. Despite recovering from a broken heart..."a heart that hurts is a heart that works." My heart is so open...but it is also afraid and cautious. That said, here's what I've been dreaming of for a while. I could slightly reword this list and use it as the specification for Wendy 3.0.
 
