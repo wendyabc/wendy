@@ -28,7 +28,7 @@ The primary feature set for the Wendy 3.0 development cycle includes:
 
 = Partner 2.0 =
 
-I love love. Despite recovering from a broken heart..."a heart that hurts is a heart that works." My heart is so open...but it is also afraid and cautious. That said, here's what I've been dreaming of for a while.
+I love love. Despite recovering from a broken heart..."a heart that hurts is a heart that works." My heart is so open...but it is also afraid and cautious. That said, here's what I've been dreaming of for a while. Funny enough, I could slightly reword this list and use it as the specification for Wendy 3.0. :)
 
 A conforming Partner application will exhibit the following features:
   * Present. Someone who I can talk freely with. If I have a twinge of some feeling, I can bring it up, ask questions, and get an honest, loving answer.
