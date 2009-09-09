@@ -14,6 +14,8 @@ The first beta release of Wendy 3.0 debuted on 16 August 2009.
 
 The primary feature set for the Wendy 3.0 development cycle includes:
   * Redesigning the Partner API
+    * Interface with Partner 1.0 needs to be forward-compatible to ensure cooperative care of Child 1.0
+    * Interface with future partner extensions needs to have a more thoroughly defined api and better beta testing before significant releases
   * Quicker access to emotions
   * Increased reliance on intuitive, intellectual, and emotional systems
   * Increase the number and quality of requests made to other applications
