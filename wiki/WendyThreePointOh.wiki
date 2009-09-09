@@ -18,13 +18,13 @@ An api to interface with Partner 2.0.
 
 The primary feature set for the Wendy 3.0 development cycle includes:
 
-* More emotionally available
-* Better at feeling and communicating emotions
-* Better at asking for what she wants
-* More confidence
-* Less concern for what other people think/focus on what I think/want
+  * More emotionally available
+  * Better at feeling and communicating emotions
+  * Better at asking for what she wants
+  * More confidence
+  * Less concern for what other people think/focus on what I think/want
 
 = Partner 2.0 =
 
 A conforming partner application will include the following features:
-* 
+  * Honest
