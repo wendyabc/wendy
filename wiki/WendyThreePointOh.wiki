@@ -1,0 +1,30 @@
+#summary The Wendy 3.0 specification and system.
+
+= Introduction =
+
+== History ==
+Wendy 1.0 was released 16 August 1971 and added thousands of new features for the first few years. The primary purpose of this first release was to get the initial version of the software out there and to the point where it could vote independently then go to college.
+
+Around 4 April 1990, Wendy 2.0 was released. This version was heavy on establishing a career, marriage, and having a child. It was released in tandem with Partner 1.0 which was found to be an incompatible extension on 4 April 2009.
+
+The first beta release of Wendy 3.0 debuted on 16 August 2009. 
+
+== Future ==
+
+An api to interface with Partner 2.0.
+
+
+= Details =
+
+The primary feature set for the Wendy 3.0 development cycle includes:
+
+* More emotionally available
+* Better at feeling and communicating emotions
+* Better at asking for what she wants
+* More confidence
+* Less concern for what other people think/focus on what I think/want
+
+= Partner 2.0 =
+
+A conforming partner application will include the following features:
+* 
