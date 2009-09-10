@@ -27,8 +27,8 @@ The primary feature set for the Wendy 3.0 development cycle includes:
 
 Several of the Wendy 3.0 processes are aimed at creating a stable, loving environment for Child 1.0. Here are some of the features we'd like to see implemented:
 
-  * Creation of an interesting, fun, loving environment that Child 1.0 will enjoy bringing friends home to visit.
-  * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" such that Child 1.0 will be able to name and process emotions effectively.
+  * Creation of an interesting, fun, loving home that Child 1.0 will enjoy bringing friends to visit.
+  * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" to help Child 1.0 name and process emotions effectively.
 
 = Partner 2.0 =
 
