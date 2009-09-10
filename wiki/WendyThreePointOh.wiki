@@ -22,6 +22,7 @@ The primary feature set for the Wendy 3.0 development cycle includes:
   * Decrease number of cycles wasted on worrying about what other applications are processing
   * Increase the number of connections to other applications
   * Deepen the connections that are made with other applications
+  * Installation of a "Don't Panic!" button that will cause noops until calm is restored.
 
 = Child 1.0 = 
 
