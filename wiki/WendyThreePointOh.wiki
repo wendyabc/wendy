@@ -7,7 +7,7 @@ Wendy 1.0 was released 16 August 1971 and added thousands of new features for th
 
 Around 4 April 1990, Wendy 2.0 was released. This version was heavy on establishing a career, marriage, and having a child. It was released in tandem with Partner 1.0 which was found to be an incompatible extension on 4 April 2009.
 
-Work on Wendy 3.0 began on 5 April 2009. The first beta release debuted on 16 August 2009. Beta tests of the "single/independent," "flirting," and "connecting with strangers" modules were conducted in Black Rock City (1-6 September) that resulted in the beta 2 release on 7 September 2009.
+Work on Wendy 3.0 began on 5 April 2009. The first beta release debuted on 16 August 2009 ([http://www.flickr.com/photos/sp1ral/sets/72157621941656867/ photos of 3.0 beta release party]). Beta tests of the "single/independent," "flirting," and "connecting with strangers" modules were conducted in Black Rock City (1-6 September) that resulted in the beta 2 release on 7 September 2009. Significant changes were made to the partner API on the playa--some modules were deleted and others almost completely rewritten. ([http://www.flickr.com/photos/sp1ral/sets/72157622172154885/ Photos from Burning Man]).
 
 
 = Details =
