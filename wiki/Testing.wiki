@@ -1,0 +1,14 @@
+Testing procedures and tests
+
+= Introduction =
+
+Testing is a crucial part of the development process. It allows us to see how the system responds under new conditions, observe the response, and determine if the response was appropriate or if it needs to be modified. It's a good way to identify logic errors and discover missing features. It's also a great way to showcase how well parts of the system are already working
+
+
+= Future Tests =
+
+@@list tests to conduct
+
+= Past Tests = 
+
+@@document some of the more successful beta tests and their outcomes?
