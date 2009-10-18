@@ -30,6 +30,7 @@ The primary feature set for the Wendy 3.0 development cycle includes:
   * Installation of a "Don't Panic!" button that will cause noops until calm is restored.
   * @@something about pursuing life's purpose--changing how the world thinks about design and human rights...creating the inclusive universe
   * @@something about getting scifi writing published
+  * Embody all features described in the Partner 2.0 list
 
 = Child 1.0 = 
 
