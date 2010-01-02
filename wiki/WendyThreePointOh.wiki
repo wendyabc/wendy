@@ -8,12 +8,17 @@ Around 4 April 1990, Wendy 2.0 was released. This version was focused on establi
 
 Work on Wendy 3.0 began on 5 April 2009. The first beta release debuted on 16 August 2009 ([http://www.flickr.com/photos/sp1ral/sets/72157621941656867/ photos of 3.0 beta release party]). Beta tests of the "single/independent," "flirting," and "connecting with strangers" modules were conducted in Black Rock City (1-6 September) that resulted in the beta 2 release on 7 September 2009. Significant changes were made to the partner API on the playa--some modules were deleted and others almost completely rewritten. ([http://www.flickr.com/photos/sp1ral/sets/72157622172154885/ Photos from Burning Man]).
 
+The Candidate Release was originally scheduled for 1 January 2010 but one of the major features, Legally Divorced, was not yet completed. Therefore, the 1 January release was another beta that incorporated all of the evolution since September. It's much more stable that the previous betas and most all of the bugs have been addressed to functional levels (evolution will be ongoing throughout the lifetime of the product).
+
 For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 == Timeline ==
 
-  * Release candidate: 1 January 2010. 
-  * Gold release: April 2010.
+  * Beta 1: 5 April 2009
+  * Beta 2: 7 September 2009
+  * Beta 3: 1 January 2010
+  * Release candidate: 12 February 2010 
+  * Gold release: April 2010
 
 = Wendy 3.0 = 
 
@@ -28,7 +33,7 @@ The primary feature set for the Wendy 3.0 development cycle includes:
   * Increase the number and quality of requests made to other applications
     * I have learned to rely on myself for most things. I want to be able to seek help, be vulnerable, and ask for the things that I need and want.
   * Decrease number of cycles wasted on worrying about what other applications are processing
-    * In my life, I have spent a lot of time worrying about what other people think rather and reacting to that. Moving forward, I don't want to make assumptions about what other people want and I want to focus on what I want, think and need and act in response to that. I am changing how I approach situations--becoming less attached to outcomes and more focused on the moment. The biggest outcome that I want to detach from is "I want xyz to like me." I am learning to like myself and not worry what others think.
+    * In my life, I have spent a lot of time worrying about what other people think and reacting to those assumptions. Moving forward, I want to focus on what I want, think and need and act in response to that. I am changing how I approach situations--becoming less attached to outcomes and more focused on the moment. The biggest outcome that I want to detach from is "I want xyz to like me." I am learning to like myself and not worry what others think.
   * Increase the number of connections to other applications
   * Deepen the connections that are made with other applications
   * Installation of a "Don't Panic!" button that will cause noops until calm is restored.
