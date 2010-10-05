@@ -10,6 +10,8 @@ Work on Wendy 3.0 began on 5 April 2009. The first beta release debuted on 16 Au
 
 The Candidate Release was originally scheduled for 1 January 2010 but one of the major features, Legally Divorced, was not yet completed. Therefore, the 1 January release was another beta that incorporated all of the evolution since September. It's much more stable that the previous betas and most all of the bugs have been addressed to functional levels (evolution will be ongoing throughout the lifetime of the product).
 
+3.0 was released to market (or released to the massses) on 4 October 2010 after the Legally Divorced feature was finally recorded in the King County books. Note that the date of shipping is "10/4" as in "ten four good buddy."
+
 For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 == Timeline ==
@@ -18,7 +20,7 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
   * Beta 2: 7 September 2009
   * Beta 3: 1 January 2010
   * Release candidate: 12 February 2010 
-  * Gold release: April 2010
+  * RTM: 4 October 2010
 
 = Wendy 3.0 = 
 
