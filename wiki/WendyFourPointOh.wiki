@@ -2,9 +2,11 @@
 
 = Introduction =
 
-[http://code.google.com/p/wendy/wiki/WendyThreePointOh Wendy 3.0] was an amazing leap forward in Wendy technology. This August is my 40th birthday, thus it only seems appropriate to spec out the next version of Wendy. We're planning to launch the beta of Wendy 4.0 on 16 August 2011.
+[http://code.google.com/p/wendy/wiki/WendyThreePointOh Wendy 3.0] was an amazing leap forward in Wendy technology. This August is my 40th birthday, thus it only seems appropriate to spec out the next version of Wendy. 
 
 
 = Details =
 
 Specification and project milestones coming soon....
+
+* 16 August 2011 - Wendy 4.0 Beta Launch Party
