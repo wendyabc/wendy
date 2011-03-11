@@ -1,0 +1,10 @@
+#summary With the successful launch of the Wendy 3.0 product, it is time to start thinking about the next release.
+
+= Introduction =
+
+Wendy 3.0 was an amazing leap forward in Wendy technology. This August is my 40th birthday, thus it only seems appropriate to launch Wendy 4.0....and which sets us up to launch Wendy 5.0 in 2021. Thus, one of the great features of the Wendy 3.0 development was to decrease the time between major releases.
+
+
+= Details =
+
+Specification coming soon....
