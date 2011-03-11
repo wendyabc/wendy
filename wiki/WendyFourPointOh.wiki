@@ -1,10 +1,10 @@
-#summary With the successful launch of the Wendy 3.0 product, it is time to start thinking about the next release.
+#summary The evolution continues...
 
 = Introduction =
 
-Wendy 3.0 was an amazing leap forward in Wendy technology. This August is my 40th birthday, thus it only seems appropriate to launch Wendy 4.0....and which sets us up to launch Wendy 5.0 in 2021. Thus, one of the great features of the Wendy 3.0 development was to decrease the time between major releases.
+[http://code.google.com/p/wendy/wiki/WendyThreePointOh Wendy 3.0] was an amazing leap forward in Wendy technology. This August is my 40th birthday, thus it only seems appropriate to spec out the next version of Wendy. We're planning to launch the beta of Wendy 4.0 on 16 August 2011.
 
 
 = Details =
 
-Specification coming soon....
+Specification and project milestones coming soon....
