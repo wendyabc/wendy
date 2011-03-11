@@ -25,71 +25,26 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 = Wendy 3.0 = 
 
-The primary feature set for the Wendy 3.0 development cycle includes:
-  * Redesigning the Partner API
-    * Interface with Partner 1.0 needs to be forward-compatible to ensure cooperative care of Child 1.0
-    * Interface with future partner extensions needs to have a more thoroughly defined api and better beta testing before significant releases
+The primary feature set for the Wendy 3.0 development cycle included:
+  * Redesigned the Partner API
+    * Interface with Partner 1.0 is forward-compatible to ensure cooperative care of Child 1.0
+    * Interface for future partner extensions has a more thoroughly defined api with better boundary management and fewer energy leaks. 
   * Quicker access to emotions
-    * My head is often "disconnected" from my body. I want to be more "plugged in" so that I have access to the information coming from my body, especially my gut and heart.
+    * Better access to emotions, gut and heart.
   * Increased reliance on intuitive, intellectual, and emotional systems
-    * In my past, I have tended to distrust my intuition. I need to learn to access that information (via feelings) and then trust it.
-  * Increase the number and quality of requests made to other applications
-    * I have learned to rely on myself for most things. I want to be able to seek help, be vulnerable, and ask for the things that I need and want.
-  * Decrease number of cycles wasted on worrying about what other applications are processing
-    * In my life, I have spent a lot of time worrying about what other people think and reacting to those assumptions. Moving forward, I want to focus on what I want, think and need and act in response to that. I am changing how I approach situations--becoming less attached to outcomes and more focused on the moment. The biggest outcome that I want to detach from is "I want xyz to like me." I am learning to like myself and not worry what others think.
-  * Increase the number of connections to other applications
-  * Deepen the connections that are made with other applications
-  * Installation of a "Don't Panic!" button that will cause noops until calm is restored.
-  * @@something about getting scifi writing published
-  * In less technical terms, I want to exhibit these qualities:
-    * Be present. Grounded in reality.
-    * Set and maintain boundaries. Respect boundaries. 
-    * Lean into emotions and discover the information within.
-    * Love and care for myself. ("Secure your oxygen mask before helping others with theirs.")
-    * View relationships as adventures. 
-    * Be spiritual, loving, learning. 
-    * Enjoy the journey of life.
-    * Leave the world a better place than I found it.
-    * Strive to do my best but celebrate failures as learning opportunities.
-    * Be the best mother I can be.
-    * A conjurer of ideas. 
-    * Accept myself as I am.
-    * Take space as I need. 
-    * Express myself freely and honestly. 
-    * Be trustworthy, kind, and good.
-    * Volunteer, donate, or work towards making the world a better place for all living things.
-    * Care about where my food comes from--how it is grown and who grows it.
-    * Do not use alcohol or drugs to cope but drink or toke from time-to-time to celebrate.
-    * Enjoy the arts and make plans to see operas, plays, visual arts openings, museum exhibits, and concerts. 
-    * View "home" as an extension of myself and therefore part of self-care.
-    * Don't look for someone to fill in where I lack.
-    * Don't take things personally.
-    * Don't make assumptions.
-    * Be impeccable with my word.
+  * Increased the number and quality of requests made to other applications
+  * Decreased number of cycles wasted on worrying about what other applications are processing
+  * Increased the number of connections to other applications
+  * Deepened the connections that are made with other applications
+  * Installed a "Don't Panic!" button that cause noops until calm is restored.
 
 = Child 1.0 = 
 
-Several of the Wendy 3.0 processes are aimed at creating a stable, loving environment for Child 1.0. Here are some of the features we'd like to see implemented:
+Several of the Wendy 3.0 processes are aimed at creating a stable, loving environment for Child 1.0. Here are some of the features:
 
   * Creation of an interesting, fun, loving, beautiful, artistic, inspiring, eclectic home. As he gets older, I want home to be a place that he enjoys bringing friends to because they like to hang out here.
   * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" such that Child 1.0 learns to name and process emotions effectively.
   * Establish a grounded, compassionate co-parenting relationship with Partner 1.0 to give Child 1.0 as much support as we can.
   * Ensure Wendy 3.0 beta testing doesn't confuse or unnecessarily upset Child 1.0. Set and maintain healthy boundaries with beta testers with respect to access to The Lab and interactions with Child 1.0.
-  * Maintain a good balance between work, play, and time spent with Child 1.0. Ensure that "re-entry" times are just the two of us to help him shift gears.
-  * Minimize the number of transitions he experiences each day.
+  * Maintain a good balance between work, play, and time spent with Child 1.0. 
   * Continue to learn about parenting and child development. Continue to enjoy the effect that parenting has on my own personal growth.
-
-= Partner 2.0 =
-
-Disclaimer: Several bugs will need to be addressed and a future build of Wendy 3.0 will need to be more stable before serious attention is directed toward this module.
-
-A conforming Partner application will exhibit the following features:
-  * Loves *me* for me
-  * Sexually creative, imaginative, playful, GGG. 
-  * Believes in magic and ritual.
-  * Willing to work with professionals if needed.
-  * Intelligent.
-  * Creative.
-  * Good.
-  * Open-minded.
-  * Honest.
