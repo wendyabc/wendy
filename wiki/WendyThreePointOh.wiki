@@ -12,6 +12,8 @@ The Candidate Release was originally scheduled for 1 January 2010 but one of the
 
 3.0 was released to market (or released to the massses) on 4 October 2010 after the Legally Divorced feature was finally recorded in the King County books. Note that the date of shipping is "10/4" as in "ten four good buddy."
 
+On 16 August 2011, the first dot release (Wendy 3.4.0) coincided with the Wendy meat ware's 40th annual anniversary of celestial circumference (AACC). An agile release process was adopted that year such that each following year on the AACC a new release would coincide with the anniversary. Thus, 16 August 2014 is the 3.4.3 beta release--the 5 year anniversary of the Wendy 3.0 line. 
+
 For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 == Timeline ==
@@ -22,6 +24,10 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
   * Beta 3: 1 January 2010
   * Release candidate: 12 February 2010 
   * RTM: 4 October 2010
+  * Beta 3.4.0 August 2011
+  * Beta 3.4.1 August 2012
+  * Beta 3.4.2 August 2013
+  * Beta 3.4.3, 5 year anniversary of Wendy 3.0, August 2014. 
 
 = Wendy 3.0 = 
 
