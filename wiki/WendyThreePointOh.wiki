@@ -12,9 +12,7 @@ The Candidate Release was originally scheduled for 1 January 2010 but one of the
 
 3.0 was released to market (or released to the massses) on 4 October 2010 after the Legally Divorced feature was finally recorded in the King County books. Note that the date of shipping is "10/4" as in "ten four good buddy."
 
-On 16 August 2011, the first dot release (Wendy 3.4.0) coincided with the Wendy meat ware's 40th annual anniversary of celestial circumference (AACC). An agile release process was adopted that year such that each following year on the AACC a new release would coincide with the anniversary. Thus, 16 August 2014 is the 3.4.3 beta release--the 5 year anniversary of the Wendy 3.0 line. ([http://gilhooly.blogspot.com/2014/08/wendy-30-5-year-retrospective.html Wendy 3.0 5 year anniversary post mortem]).
-
-We expect a major dot release every decade hereafter. We anticipate release of Wendy 4.0 (technically Wendy 4.5.7) in 2028, as we begin the next 19 year cycle of the Wendy system.
+On 16 August 2011, the first dot release (Wendy 3.4.0) coincided with the Wendy meat ware's 40th annual anniversary of celestial circumference (AACC). An agile release process was adopted that year such that each following year on the AACC a new release would coincide with the anniversary. Thus, 16 August 2014 is the 3.4.3 beta release--the 5 year anniversary of the Wendy 3.0 line. ([http://gilhooly.blogspot.com/2014/08/wendy-30-5-year-retrospective.html Wendy 3.0 5 year anniversary post mortem]). We expect a major dot release every decade hereafter. We anticipate release of Wendy 4.0 (technically Wendy 4.5.7) in 2028, as we begin the next 19 year cycle of the Wendy system.
 
 For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
