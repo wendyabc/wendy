@@ -18,10 +18,10 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 == Timeline ==
 
-  * Beta 1: 5 April 2009
+  * Beta 3.0.1: 5 April 2009
   * Beta release party: 16 August 2009
-  * Beta 2: 7 September 2009
-  * Beta 3: 1 January 2010
+  * Beta 3.0.2: 7 September 2009
+  * Beta 3.0.3: 1 January 2010
   * Release candidate: 12 February 2010 
   * RTM: 4 October 2010
   * Beta 3.4.0 August 2011
