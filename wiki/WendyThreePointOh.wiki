@@ -34,7 +34,8 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 The primary feature set for the Wendy 3.0 development cycle included:
   * Redesigned the Partner API
     * Interface with Partner 1.0 is forward-compatible to ensure cooperative care of Child 1.0
-    * Interface for future partner extensions has a more thoroughly defined api with better boundary management and fewer energy leaks. 
+    * Interface for future partner extensions has a more thoroughly defined api with better boundary 
+    management and fewer energy leaks. 
   * Quicker access to emotions
     * Better access to emotions, gut and heart.
   * Increased reliance on intuitive, intellectual, and emotional systems
@@ -48,9 +49,14 @@ The primary feature set for the Wendy 3.0 development cycle included:
 
 Several of the Wendy 3.0 processes are aimed at creating a stable, loving environment for Child 1.0. Here are some of the features:
 
-  * Creation of an interesting, fun, loving, beautiful, artistic, inspiring, eclectic home. As he gets older, I want home to be a place that he enjoys bringing friends to because they like to hang out here.
-  * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" such that Child 1.0 learns to name and process emotions effectively.
-  * Establish a grounded, compassionate co-parenting relationship with Partner 1.0 to give Child 1.0 as much support as we can.
-  * Ensure Wendy 3.0 beta testing doesn't confuse or unnecessarily upset Child 1.0. Set and maintain healthy boundaries with beta testers with respect to access to The Lab and interactions with Child 1.0.
+  * Creation of an interesting, fun, loving, beautiful, artistic, inspiring, eclectic home. 
+  As he gets older, I want home to be a place that he enjoys bringing friends to because they like to hang out here.
+  * Several of the primary features for Wendy 3.0 are skills that will help in "emotion coaching" 
+  such that Child 1.0 learns to name and process emotions effectively.
+  * Establish a grounded, compassionate co-parenting relationship with Partner 1.0 to give Child 1.0 
+  as much support as we can.
+  * Ensure Wendy 3.0 beta testing doesn't confuse or unnecessarily upset Child 1.0. Set and maintain 
+  healthy boundaries with beta testers with respect to access to The Lab and interactions with Child 1.0.
   * Maintain a good balance between work, play, and time spent with Child 1.0. 
-  * Continue to learn about parenting and child development. Continue to enjoy the effect that parenting has on my own personal growth.
+  * Continue to learn about parenting and child development. Continue to enjoy the effect that parenting 
+  has on my own personal growth.
