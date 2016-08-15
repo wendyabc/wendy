@@ -18,18 +18,18 @@ For project updates, refer to [http://gilhooly.blogspot.com/ Project Gilhooly].
 
 == Timeline ==
 
- * Beta 3.0.1: 5 April 2009
- * Beta release party: 16 August 2009
- * Beta 3.0.2: 7 September 2009
- * Beta 3.0.3: 1 January 2010
- * Release candidate: 12 February 2010 
- * RTM: 4 October 2010
- * Beta 3.4.0 August 2011
- * Beta 3.4.1 August 2012
- * Beta 3.4.2 August 2013
- * Beta 3.4.3, 5 year anniversary of Wendy 3.0, August 2014. 
- * Beta 3.4.4, August 2015
- * Beta 3.4.5, August 2016
+* Beta 3.0.1: 5 April 2009
+* Beta release party: 16 August 2009
+* Beta 3.0.2: 7 September 2009
+* Beta 3.0.3: 1 January 2010
+* Release candidate: 12 February 2010 
+* RTM: 4 October 2010
+* Beta 3.4.0 August 2011
+* Beta 3.4.1 August 2012
+* Beta 3.4.2 August 2013
+* Beta 3.4.3, 5 year anniversary of Wendy 3.0, August 2014. 
+* Beta 3.4.4, August 2015 
+* Beta 3.4.5, August 2016
 
 = Wendy 3.0 = 
 
