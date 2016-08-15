@@ -1,5 +1,3 @@
-#summary The Wendy 3.0 specification and system.
-
 = Background = 
 
 Wendy 1.0 was released 16 August 1971 and added thousands of new features for the first few years. The primary purpose of this release was to birth the initial version then get it to the point where it could vote and go to college.
