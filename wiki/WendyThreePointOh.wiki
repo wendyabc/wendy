@@ -63,7 +63,7 @@ Several of the Wendy 3.0 processes are aimed at creating a stable, loving enviro
   * Continue to learn about parenting and child development. Continue to enjoy the effect that parenting 
   has on my own personal growth.
   
-  = Partner 2.0: API and data management = 
+= Partner 2.0: API and data management = 
   
   Several of the Partner APIs were taken offline from 2011 to mid-2015. During training for Burning Man 2015, they were brought back online with the intent of testing several of the interfaces on playa. Tests started at Critical Massive. Unexpectedly, a compatible candidate process for Partner 2.0 was found just after the release of 3.4.4 (August 2015). As of the release of 3.4.5 (August 2016), these processes continue to be evolving well together and the current roadmap includes a commitment to continue this evolution for the forseeable future. 
   
